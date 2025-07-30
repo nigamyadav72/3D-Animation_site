@@ -1,1 +1,1 @@
-URL: https://vercel.com/nigam-yadavs-projects/3-d-animation-site
+URL: https://3-d-animation-site-theta.vercel.app/
